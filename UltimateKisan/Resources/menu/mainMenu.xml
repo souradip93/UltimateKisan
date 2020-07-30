@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>  
+<menu xmlns:android="http://schemas.android.com/apk/res/android">  
+  
+  <!-- Add menu Item 1 -->  
+  <item android:id="@+id/menuItem1" 
+		android:checkable="true"
+		android:enabled="true"
+        android:title="@string/menuItem1" 
+		android:showAsAction="always"/>  
+    
+  <!-- Add menu Item 2 -->  
+  <item android:id="@+id/menuItem2"
+		android:checkable="true"
+		android:enabled="true"
+        android:title="@string/menuItem2"/>  
+  
+  <!-- Add menu Item 3 -->  
+  <item android:id="@+id/menuItem3"
+		android:checkable="true"
+		android:enabled="true"
+        android:title="@string/menuItem3"/>  
+  
+</menu>

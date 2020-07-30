@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UltimateKisan</string>
+    <string name="action_settings">Settings</string>
+	<string name="menuItem1">Farm 1</string>
+	<string name="menuItem2">Farm 2</string>
+	<string name="menuItem3">Farm 3</string>
+
+	<string name="ln_prompt">Choose a language</string>
+	<string-array name="ln_array">
+		<item>English</item>
+		<item>Hindi</item>
+		<item>Marathi</item>
+	</string-array>
+</resources>
